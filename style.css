@@ -149,8 +149,8 @@ a:hover {
 /* SECTIONS */
 
 section {
-  padding-top: 4vh;
-  height: 80vh;
+  padding-top: 10vh;
+  height: auto;
   margin: 0 8rem;
   box-sizing: border-box;
   min-height: fit-content;
@@ -308,7 +308,7 @@ section {
 
 .section-container {
   gap: 4rem;
-  height: 80%;
+  height: 60%;
 }
 
 .section__pic-container {
@@ -417,7 +417,7 @@ h3 {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
-  padding-top: 300px;
+  padding-top: 50px;
 }
 
 .contact-info-upper-container {
